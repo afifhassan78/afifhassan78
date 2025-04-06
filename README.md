@@ -3,7 +3,7 @@
 🎓 CSE Undergrad at Sister Nivedita University<br/>
 🧠 Exploring the world of tech with a love for clean code & creative thinking<br/>  
 💻 Currently learning HTML, CSS, JavaScript & C<br/>  
-✍️ Part of the content team at SKEPSIS, where ideas meet execution<br/>  
+✍️ Part of various tech & non-tech teams at SNU, where ideas meet execution<br/>  
 📚 I also tutor students—because sharing knowledge makes me sharper too<br/>  
 ☕ Fueled by curiosity, community, and a lot of coffee<br/>  
 🧩 I enjoy organizing chaos, whether it’s in code or conversations<br/>
